@@ -49,6 +49,8 @@ wget https://raw.githubusercontent.com/csnwc/Exercises-In-C/refs/heads/main/Code
 wget https://raw.githubusercontent.com/csnwc/Exercises-In-C/refs/heads/main/Code/Week5/CrushIt/lft.txt
 wget https://raw.githubusercontent.com/csnwc/Exercises-In-C/refs/heads/main/Code/Week5/CrushIt/a.txt
 wget https://raw.githubusercontent.com/csnwc/Exercises-In-C/refs/heads/main/Code/Week5/CrushIt/crushit.h
+wget https://raw.githubusercontent.com/csnwc/Exercises-In-C/refs/heads/main/Code/Week5/CrushIt/eleven.txt
+wget https://raw.githubusercontent.com/csnwc/Exercises-In-C/refs/heads/main/Code/Week5/CrushIt/twelve.txt
 
 make clean
 make crushit
